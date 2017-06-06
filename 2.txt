@@ -1,8 +1,4 @@
 This IS num 2txt
-<<<<<<< HEAD
-網網網網網網網網
-樓奻珨俴聆彸
-this is 333333
-=======
+5555555
 i want to be happy
->>>>>>> dev
+
